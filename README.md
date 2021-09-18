@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Rust, check out my last project : List-it!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- My next todo task is to update this file. Stay tuned, I might actually do it some day. Or not. 
 
 <!---
 sebastien-mariaux/sebastien-mariaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
