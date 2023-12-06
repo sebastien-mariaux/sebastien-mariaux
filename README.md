@@ -6,7 +6,7 @@
 - My next todo task is to complete AOC 2023!
 - Apparently, Latex is my main language :grimacing:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-mariaux)](https://github.com/sebastien-mariaux/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-mariaux&layout=compact)](https://github.com/sebastien-mariaux/github-readme-stats)
 
 <!---
 sebastien-mariaux/sebastien-mariaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
